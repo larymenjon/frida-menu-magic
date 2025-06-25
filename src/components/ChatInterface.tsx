@@ -2,7 +2,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
-import { Send, Sparkles } from 'lucide-react';
+import { Send, Sparkles, ChefHat } from 'lucide-react';
 import ChatMessage from './ChatMessage';
 import MenuCard from './MenuCard';
 import { toast } from 'sonner';
